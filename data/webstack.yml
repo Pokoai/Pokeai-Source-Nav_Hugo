@@ -1,0 +1,285 @@
+
+- taxonomy: 财经
+  icon: linecons-star
+  list:
+    - term: 行业发展
+      links:      
+        - title: 酷壳
+          # logo: assets/images/logos/uicn.png
+          url: https://coolshell.cn/
+          description: 图形交互与界面设计交流、作品展示、学习平台。
+        - title: 阮一峰
+          # logo: assets/images/logos/zcool.png
+          url: http://www.ruanyifeng.com/
+          description: 中国人气设计师互动平台
+        - title: 王垠
+          # logo: assets/images/logos/pinterest.png
+          url: https://www.yinwang.org/
+          description: 全球美图收藏采集站
+        - title: 阳志平
+          # logo: assets/images/logos/huaban.png
+          url: https://www.yangzhiping.com/
+          description: 收集灵感,保存有用的素材
+
+    - term: 基金网站
+      links:      
+        - title: Hael's Blog-英文博客
+          # logo: assets/images/logos/huaban.png
+          url: https://haelchan.me/
+          description: 感受英文博客魅力，提醒自己要搞定英文
+
+    - term: 财报
+      link:
+        - title: Power`s Wiki
+          # logo: assets/images/logos/uicn.png
+          url: https://wiki-power.com/
+          description: 主要是看高效工作指南板块
+        - title: 愧怍
+          # logo: assets/images/logos/zcool.png
+          url: https://kuizuo.cn/
+          description: 博客部分 36 篇文章看完，其他不用看
+        - title: 洋子的自留地
+          # logo: assets/images/logos/pinterest.png
+          url: https://purocean.github.io/
+          description: 兴趣相投，关注看看
+        - title: 胡达尔汗
+          # logo: assets/images/logos/huaban.png
+          url: https://hoodrh.top/
+          description: 搭建个人数字孤岛，我也有兴趣
+        - title: uxcaff-营销工具开发者
+          # logo: assets/images/logos/zcool.png
+          url: https://uxcaff.com/
+          description: 碎片化阅读、知识管理流程话题吸引了我，想再探索下
+        - title: 峰华-前端工程师
+          # logo: assets/images/logos/pinterest.png
+          url: https://zxuqian.cn/
+          description: 职业'专题可以看看
+    
+    - term: 国家机构
+      link:
+        - title: Power`s Wiki
+          # logo: assets/images/logos/uicn.png
+          url: https://wiki-power.com/
+          description: 主要是看高效工作指南板块
+        - title: 愧怍
+          # logo: assets/images/logos/zcool.png
+          url: https://kuizuo.cn/
+          description: 博客部分 36 篇文章看完，其他不用看
+        - title: 洋子的自留地
+          # logo: assets/images/logos/pinterest.png
+          url: https://purocean.github.io/
+          description: 兴趣相投，关注看看
+        - title: 胡达尔汗
+          # logo: assets/images/logos/huaban.png
+          url: https://hoodrh.top/
+          description: 搭建个人数字孤岛，我也有兴趣
+
+    - term: 利率/复利计算
+      link:
+        - title: Power`s Wiki
+          # logo: assets/images/logos/uicn.png
+          url: https://wiki-power.com/
+          description: 主要是看高效工作指南板块
+        - title: 愧怍
+          # logo: assets/images/logos/zcool.png
+          url: https://kuizuo.cn/
+          description: 博客部分 36 篇文章看完，其他不用看
+
+
+ 
+- taxonomy: 素材资源
+  icon: linecons-thumbs-up
+  list: 
+    - term: 免费可商用图片
+      links:
+        - title: Unsplash
+          url: https://unsplash.com/
+          logo: assets/images/logos/unsplash.png
+          description: Beautiful, free photos.
+        - title: pixabay
+          url: https://pixabay.com/
+          logo: assets/images/logos/pixabay.png
+          description: 可在任何地方使用的免费图片和视频
+        
+    - term: Icon
+      links:
+        - title: Iconfinder
+          # logo: assets/images/logos/Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: Stockio
+          # logo: assets/images/logos/iconfont.png
+          url: https://www.stockio.com/
+          description:  Stockio
+        - title: iconfont
+          # logo: assets/images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Font Awesome Icon
+          # logo: assets/images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome
+
+    - term: 图片处理
+      links:
+        - title: tinypng
+          # logo: assets/images/logos/Iconfinder.png
+          url: https://tinypng.com/
+          description: 2,100,000+ free and premium vector icons.
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: assets/images/logos/gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: Color Palettes-色彩搭配
+          # logo: assets/images/logos/iconfont.png
+          url: https://colorhunt.co/
+          description:  Stockio
+        - title: 比特虫-制作ico图标
+          # logo: assets/images/logos/iconfont.png
+          url: https://www.bitbug.net/
+          description: 阿里巴巴矢量图标库    
+
+    - term: 背景
+      links:
+        - title: uiGradients-渐变色背景
+          # logo: assets/images/logos/Iconfinder.png
+          url: https://uigradients.com/#Venice
+          description: 2,100,000+ free and premium vector icons.
+        - title: Bg-patterns-底纹背景
+          # logo: assets/images/logos/iconfont.png
+          url: http://bg-patterns.com/?p=2431
+          description:  Stockio
+        - title: 背景图片免费下载
+          # logo: assets/images/logos/iconfont.png
+          url: https://www.tukuppt.com/backdrop/zonghe_0_0_0_0_0_0_3.html
+          description: 阿里巴巴矢量图标库    
+
+    - term: LOGO设计
+      links:
+        - title: Iconsfeed
+          logo: assets/images/logos/iconsfeed.png
+          url: http://www.iconsfeed.com/
+          description: iOS icons gallery
+        - title: iOS Icon Gallery
+          logo: assets/images/logos/iosicongallery.png
+          url: http://iosicongallery.com/
+          description: Showcasing beautiful icon designs from the iOS App Store
+        - title: World Vector Logo
+          logo: assets/images/logos/worldvectorlogo.png
+          url: https://worldvectorlogo.com/
+          description: Brand logos free to download
+        - title: Instant Logo Search
+          logo: assets/images/logos/InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly
+
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: assets/images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: assets/images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: PPT+
+          url: http://www.pptplus.cn/
+          logo: assets/images/logos/pptplus.png
+          description: PPT加直播、录制和分享—PPT+语音内容分享平台
+        - title: PPTMind
+          url: http://www.pptmind.com/
+          logo: assets/images/logos/pptmind.png
+          description: 分享高端ppt模板与keynote模板的数字作品交易平台
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: assets/images/logos/tretars.png
+          description: The best free Mockups from the Web
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: assets/images/logos/500d.png
+          description: 中国领先的PPT模板共享平台
+
+- taxonomy: 软件下载
+  icon: linecons-star
+  links: 
+    - title: PiratePC
+      # logo: assets/images/logos/dribbble.png
+      url: https://piratepc.me/
+      description: 网站运营者是一群热爱互联网和技术的人
+    - title: 懒得勤快的博客
+      url: https://masuit.com/
+      # logo: assets/images/logos/usepanda.png
+      description: 互联网分享精神
+    - title: Get Into PC
+      # logo: assets/images/logos/dribbble.png
+      url: https://igetintopc.com/
+      description: 软件版本更新极快，属于绿色软件的门户网站
+    - title: PirateCity
+      logo: assets/images/logos/leiphone.png
+      url: https://www.thepiratecity.co/posts/
+      description: 海盗湾
+    - title: 脑袋瓜子
+      # logo: assets/images/logos/behance.png
+      url: https://www.naodai.org/
+      description: 一个超棒的自定
+    - title: IDM俄国大佬
+      # logo: assets/images/logos/dribbble.png
+      url: https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
+      description: 岁的法国
+    - title: 反斗限免
+      # logo: assets/images/logos/behance.png
+      url: http://free.apprcn.com/
+      description: 一个超棒的自定义信息聚合 (rss feed) 平台
+    - title: Intellij idea 激活码
+      # logo: assets/images/logos/behance.png
+      url: https://idea.medeming.com/jets/
+      description: 一个超棒的自定
+
+- taxonomy: 打字练习
+  icon: linecons-star
+  links: 
+    - title: 方法论
+      # logo: assets/images/logos/dribbble.png
+      url: https://www.typingtest.com/
+      description: 测试打字速度
+    - title: TypingTest
+      # logo: assets/images/logos/behance.png
+      url: https://idea.medeming.com/jets/
+      description: 一个超棒的自定
+    - title: 10FastFingers
+      logo: assets/images/logos/leiphone.png
+      url: https://10fastfingers.com/typing-test/english
+      description: 常见单词练习
+    - title: 字母键练习
+      # logo: assets/images/logos/behance.png
+      url: https://dazi.91xjr.com/typing/train/letter.html
+      description: 字母键练习
+    - title: TypingClub
+      # logo: assets/images/logos/dribbble.png
+      url: https://www.edclub.com/sportal/
+      description: 闯关
+    - title: Keybr
+      # logo: assets/images/logos/behance.png
+      url: https://www.keybr.com/
+      description: 记录每个按键的打字速度，生成适合你的打字练习内容
+
+- taxonomy: 生活类
+  icon: linecons-star
+  links: 
+    - title: IMDb Top 250 Movies
+      # logo: assets/images/logos/dribbble.png
+      url: https://www.imdb.com/chart/top/
+      description: 测试打字速度
+    - title: 医学微视
+      # logo: assets/images/logos/behance.png
+      url: https://www.mvyxws.com/
+      description: 一个超棒的自定
+
+- taxonomy: 临时邮箱/短信
+  icon: linecons-star
+  links: 
+    - title: 临时邮箱
+      # logo: assets/images/logos/dribbble.png
+      url: https://temp-mail.org/zh/
+      description: 测试打字速度
