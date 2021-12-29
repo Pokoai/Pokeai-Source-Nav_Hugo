@@ -2,6 +2,13 @@
 - taxonomy: 在线学习
   icon: linecons-graduation-cap
   links: 
+    - title: 北大信科 CS 自学指南
+      url: https://github.com/PKUFlyingPig/cs-self-learning
+      description: 凭借开源社区的优质资源，在2-3年内成长为有扎实的数学功底和代码能力
+    - title: CS 自学指南在线书籍
+      url: https://csdiy.wiki/
+      description: 
+  
     - title: 自我成长
       url: https://www.edx.org/learn/business-administration
       description: 
@@ -45,6 +52,67 @@
       url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
 
 
+
+
+- taxonomy: 论坛
+  icon: linecons-doc
+  list:
+    - term: 程序员社区
+      links: 
+        - title: Leetcode
+          url: https://leetcode.com/
+          description: 全球极客挚爱的技术成长平台
+        - title: Leetcode题库
+          url: https://leetcode-cn.com/problemset/all/
+          description: 
+        - title: 牛客网
+          url: https://www.nowcoder.com/
+          description: 找工作神器|笔试题库|面试经验|实习招聘内推
+        - title: 在线工具 —— OSCHINA.NET社区
+          url: https://tool.oschina.net/
+          description: 
+        - title: 掘金
+          url: https://juejin.cn/
+          description: 代码不止，掘金不停
+        - title: OSCHINA
+          url: https://www.oschina.net/
+          description: 中文开源技术交流社区
+        - title: PUDN
+          url: https://www.pudn.com/
+          description: 363万+编程源码资料
+        - title: CodeProject
+          url: https://www.codeproject.com/
+          description: For those who code
+        - title: 51CTO博客2.0
+          url: https://blog.51cto.com/
+          description: 原创IT技术文章分享及交流平台
+        - title: 博客园
+          url: https://www.cnblogs.com/
+          description: 开发者的网上家园
+        - title: 程序员客栈
+          url: https://www.proginn.com/
+          description: 领先的程序员自由远程工作平台
+        - title: LintCode 炼码
+          url: https://www.lintcode.com/
+          description: 通过在线刷题的方式，提升编程能力斩获名企Offer
+        - title: C语言中文网 
+          url: http://c.biancheng.net/
+          description: C语言程序设计门户网站(入门教程、编程软件)
+
+    - term: 软件 / 硬件论坛
+      links: 
+        - title: 影子论坛
+          url: https://shadowq.com/index.html
+          description:
+        - title: 恩山无线论坛
+          url: https://www.right.com.cn/forum/forum.php
+          description: Powered by Discuz!
+        - title: 油猴中文网
+          url: https://bbs.tampermonkey.net.cn/
+          description: 油猴脚本分享交流的论坛
+
+
+    
 
 - taxonomy: 工具箱
   icon: linecons-cog
