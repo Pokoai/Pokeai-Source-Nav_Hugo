@@ -17,13 +17,32 @@
 
 - taxonomy: 官方文档
   icon: linecons-doc
-  list:
-    - term: Java
-      links: 
-        - title: API
-          url: https://www.edx.org/learn/business-administration
-          description: 
+  links: 
+    - title: Python 3.10.1 documentation
+      url: https://docs.python.org/3.10/search.html
+      description: 
+    - title: NumPy v1.19 Manual
+      url: https://numpy.org/doc/stable/search.html?q=argsort&check_keywords=yes&area=default
+      description: 
+    - title: SciPy v1.5.4
+      url: https://docs.scipy.org/doc/scipy/reference/
+      description: 
+    - title: Matplotlib 3.5.1
+      url: https://matplotlib.org/stable/
+      description: 
+    - title: Examples — Matplotlib3.5.1
+      url: https://matplotlib.org/stable/gallery/index.html
+      description: 
+    - title: 等高线演示-Matplotlib
+      url: https://www.matplotlib.org.cn/gallery/images_contours_and_fields/contour_demo.html
+      description: 
 
+    - title: Java SE 11 & JDK 11
+      url: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+      description: 
+
+    - title: cppreference.com
+      url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
 
 
 
