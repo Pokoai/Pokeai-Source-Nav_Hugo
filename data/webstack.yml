@@ -1,75 +1,523 @@
 
-- taxonomy: 财经
+- taxonomy: 在线学习
+  icon: linecons-graduation-cap
+  links: 
+    - title: 自我成长
+      url: https://www.edx.org/learn/business-administration
+      description: 
+    - title: R数据分析指南与速查手册
+      url: https://bookdown.org/xiao/RAnalysisBook/
+      description: 
+    - title: R语言入门，给一心只有学习的你
+      url: https://bookdown.org/qiyuandong/intro_r/
+      description: 
+
+
+
+
+- taxonomy: 官方文档
+  icon: linecons-doc
+  list:
+    - term: Java
+      links: 
+        - title: API
+          url: https://www.edx.org/learn/business-administration
+          description: 
+
+
+
+
+- taxonomy: 工具箱
+  icon: linecons-cog
+  list:
+    - term: 在线工具
+      links: 
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          description: 文档传输
+        - title: 文叔叔
+          url: https://www.wenshushu.cn/
+          description: 文档传输
+
+        - title: I Love PDF
+          description: PDF 爱好者的在线工具
+          url: http://www.ilovepdf.com/zh_cn
+
+        - title: markmap
+          description: 在线使用 markdown 绘制思维导图
+          url: https://markmap.js.org/repl
+
+        - title: Google Trends
+          description: 了解关键词的流行趋势
+          url: https://trends.google.com.sg/trends/?geo=CN
+        - title: Experiments with Google
+          description: 谷歌 AI 项目
+          url: https://experiments.withgoogle.com/
+        - title: Have I been pwned?
+          description: 检查密码是否已经泄露
+          url: https://haveibeenpwned.com/
+        - title: 与佛论禅
+          description: 在线文字加解密工具
+          url: http://keyfc.net/bbs/tools/tudoucode.aspx
+        
+
+        - title: LaTeX 公式编辑器
+          description: 在线编辑 LaTeX
+          url: https://www.latexlive.com/##
+        - title: Math Webdemo
+          description: 手写数学公式识别
+          url: https://webdemo.myscript.com/views/math/index.html
+        - title: GeoGebra
+          description: 在线数学软件（运算、绘图等）
+          url: https://www.geogebra.org/
+        
+        - title: ALLDOCS
+          description: 在线任意格式转换
+          url: https://alldocs.app/
+
+        - title: Markdown 简历
+          description: 在线简历编辑，推荐阅读项目的 README
+          url: https://resume.mdnice.com/
+        - title: 超级简历
+          description: 在线生成简历
+          url: https://www.wondercv.com/
+        - title: 冷熊简历
+          description: 在线生成 Markdown 简历
+          url: http://cv.ftqq.com/?fr=github#
+        - title: Resumd
+          description: 在线生成 Markdown 简历
+          url: https://resumd.t9t.io/
+
+        - title: asciiflow
+          description: 使用字符来绘画，代码注释用
+          url: http://asciiflow.com/
+        - title: File Destructor 2.0
+          description: 伪装文件损坏
+          url: http://www.xnet.se/fd/
+        - title: Gridzzly
+          description: 在线生成格点纸
+          url: http://gridzzly.com/
+        - title: GTmetrix
+          description: 网站加载速度测试
+          url: https://gtmetrix.com/
+        - title: NSEC lab
+          description: 定位 IP，分析是否为机器人
+          url: https://ip.rtbasia.com/
+        
+        - title: Generate awesome Javascript project names
+          description: 随机取名器
+          url: http://mrsharpoblunto.github.io/foswig.js/
+        - title: FC 游戏在线玩
+          description: 在线玩各种经典游戏
+          url: http://lab.mkblog.cn/FCGames/#/
+
+        - title: RECEIVE SMS ONLINE
+          description: 接码平台
+          url: https://www.receivesmsonline.net/
+        - title: 在线接收短信
+          description: 接码平台
+          url: https://ch.freephonenum.com/
+        - title: My Trash Mobile
+          description: 接码平台
+          url: https://zh.mytrashmobile.com/
+        - title: 超级云短信
+          description: 接码平台
+          url: https://www.bfkdim.com/?lang=cn
+        - title: 在线短信接收 - 接码号
+          description: 接码平台
+          url: https://jiemahao.com/
+        - title: 在线短信接收 
+          description: 接码平台
+          url: https://www.materialtools.com/?page=1
+        - title: 临时邮箱
+          url: https://temp-mail.org/zh/
+          description: 
+
+        - title: 医学微视
+          url: https://www.mvyxws.com/
+          description: 
+
+
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: assets/images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: assets/images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: assets/images/logos/tretars.png
+          description: The best free Mockups from the Web
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: assets/images/logos/500d.png
+          description: 中国领先的PPT模板共享平台
+
+
+    - term: 软件资源
+      links: 
+        - title: PiratePC
+          url: https://piratepc.me/
+          description: 网站运营者是一群热爱互联网和技术的人
+        - title: 懒得勤快的博客
+          url: https://masuit.com/
+          description: 互联网分享精神
+        - title: Get Into PC
+          url: https://igetintopc.com/
+          description: 软件版本更新极快，属于绿色软件的门户网站
+        - title: PirateCity
+          logo: assets/images/logos/leiphone.png
+          url: https://www.thepiratecity.co/posts/
+          description: 海盗湾
+        - title: 脑袋瓜子
+          url: https://www.naodai.org/
+          description: 瓜子云盘分享很多资源
+
+        - title: 反斗限免
+          url: http://free.apprcn.com/
+          description: 发布软件限免信息
+
+        - title: IDM
+          url: https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
+          description: 俄国大佬破解版
+        - title: Intellij idea 激活码
+          url: https://idea.medeming.com/jets/
+          description: 
+
+
+    - term: 打字练习
+      links: 
+        - title: 方法论
+          url: 
+          description: 
+
+        - title: TypingTest
+          url: https://www.typingtest.com/
+          description: 测试打字速度
+
+        - title: 10 FastFingers
+          logo: assets/images/logos/leiphone.png
+          url: https://10fastfingers.com/typing-test/english
+          description: 常见单词练习
+        - title: 91 小键人
+          url: https://dazi.91xjr.com/typing/train/letter.html
+          description: 字母键练习
+        - title: TypingClub
+          url: https://www.edclub.com/sportal/
+          description: 打字闯关
+        - title: Keybr
+          url: https://www.keybr.com/
+          description: 记录每个按键的打字速度，生成适合你的练习内容
+
+
+
+- taxonomy: 优质博客
+  icon: linecons-mail
+  links: 
+    - title: 《交大生存手册》
+      description: 我们能从大学教育里获得什么？
+      url: https://survivesjtu.gitbook.io/survivesjtumanual/
+    - title: AresX's Blog
+      description: wubba lubba dub dub.
+      url: https://ares-x.com/
+    - title: 城中村群租房
+      description: 一些写得不错的文章
+      url: https://www.darmau.com/
+    - title: read and go
+      description: 一些启发性的随想
+      url: https://unee.wang/
+    - title: 小土刀 2.0
+      description: 一些启发性的随想
+      url: https://wdxtub.com/
+    - title: FROYO's Blog
+      description: 把握现在，拥抱未来
+      url: http://www.izhuyue.com/
+    - title: 李笑来作品集
+      description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
+      url: http://lixiaolai.com/
+    - title: Peng Gu
+      description: Live with less. Share with more.
+      url: https://medium.com/@peng/latest
+    - title: 土木坛子
+      description: 和光同尘，与时舒卷
+      url: https://tumutanzi.com/
+    - title: 技术笔记 - 阳志平的网志
+      description: 致力于认知科学的产品开发、课程设计与科学传播。
+      url: http://www.yangzhiping.com/tech/
+    - title: Jason
+      description: 很有意思的每日随想
+      url: https://atjason.com/
+    - title: 不如
+      description: 码农，程序猿，未来的昏析狮
+      url: http://ibruce.info/
+    - title: 达夕博客
+      description: 关注工作效率/提高生产力/数字化工作/优秀软件
+      url: https://www.daxiblog.com/
+    - title: MADE(by)FRUTOS
+      description: 一些与 Arduino 相关的个人作品
+      url: https://madebyfrutos.wordpress.com/
+    - title: 0miker0's Blog
+      description: Arduino and various other projects
+      url: https://0miker0.wordpress.com/
+    - title: ARuFa の日記
+      description: 脑洞奇大的 DIY 博主
+      url: http://arufa.hatenablog.jp/
+    - title: 稚晖的个人站
+      description: 十年饮冰，难凉热血
+      url: http://pengzhihui.xyz/
+    - title: cevinius
+      description: MobBob 机器人的作者
+      url: https://www.cevinius.com/
+    - title: Do U Find IT?
+      description: 一个有意思的嵌入式博主
+      url: http://www.chaosgoo.com/
+    - title: 小木・年轮
+      description: 一个有趣的技术博客
+      url: http://caiyao.name/
+    - title: 萨摩的部落格
+      description: 掉毛中……
+      url: https://i-meto.com/
+    - title: reuixiy
+      description: 一个技术博客
+      url: https://io-oi.me/
+    - title: Moorez
+      description: 一个技术博客
+      url: http://shenzekun.cn/
+    - title: ookamiAntD's Blog
+      description: Easy codingeasy life.
+      url: https://yangbingdong.com/
+    - title: IT草根
+      description: 有意思的随想
+      url: http://codepub.cn/
+    - title: 无垠
+      description: 飞翔的天空无限大
+      url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
+    - title: 木木木木木
+      description: 有意思的技术博客
+      url: https://immmmm.com/
+    - title: Colmugx's Blog
+      description: 让一切充满想象力
+      url: https://colmugx.github.io/blog/
+    - title: 始终
+      description: 不忘初心
+      url: https://liam.page/
+    - title: 裂帛碎玉的想法
+      description: 有意思的技术博客
+      url: https://blog.vvzero.com/
+    - title: MAYBEIWILL
+      description: 有意思的随想
+      url: https://maybeiwill.me/
+    - title: 也而的博客
+      description: 在天涯和海角 放石头和葡萄
+      url: https://zoomyale.com/
+    - title: Spencer's Blog
+      description: 阿巴阿巴 o ((>ω<)) o
+      url: https://blog.spencerwoo.com/
+    - title: JeeH
+      description: Headers for framework- and platform-agnostic code
+      url: https://jeelabs.org/projects/jeeh/
+    - title: LT
+      description: Revolutionary Road
+      url: http://blog.davidrobot.com/
+    - title: 林海草原
+      description: 一些有意思的随想
+      url: https://lhcy.org/
+    - title: 何世友的日志
+      description: 一些有意思的杂谈
+      url: https://ernest.me/
+    - title: Matrix67
+      description: 有趣的数学知识
+      url: http://www.matrix67.com/blog/
+    - title: Ja50n - go ahead
+      description: 想什么呢，一直往前走
+      url: https://blog.ulinkmega.com/
+    - title: Liaoyuqin
+      description: Write drunk edit sober. I am a lovely pirate.
+      url: https://www.liaoyuqin.com/
+    - title: 周良粥凉
+      description: 有意思的随想
+      url: https://ericec.cn/
+    - title: 从良未遂
+      description: 有事就做事，没事叼根烟
+      url: https://www.ithmz.com/
+    - title: INFORX
+      description: 技术博客
+      url: https://inforscan.com/
+    - title: MacTalk-池建强的随想录
+      description: 关注技术和人文
+      url: http://macshuo.com/
+    - title: 千橙工坊
+      description: 做有温度的金融科技
+      url: https://www.qiancheng.me/
+    - title: 掘墓人的小铲子
+      description: 有意思的科技文
+      url: https://juemuren4449.com/
+    - title: 咖啡入门书
+      description: 系统了解咖啡的相关知识
+      url: https://kaix.in/0001/primer-of-coffee/
+    - title: BETTYPLEX
+      description: Life is full of regrets
+      url: https://forbetty.com/
+    - title: Lazy Blog
+      description: 不想当厨子的司机不是好码农
+      url: https://www.weichao.ren/
+    - title: Ton's Blog
+      description: 一个存放笔记的小盒子
+      url: https://ton.tn/
+    - title: cdxy.me
+      description: Cyber Security / Data Science / Trading
+      url: https://www.cdxy.me/
+    - title: topbook
+      description: 高效生活视频书
+      url: http://topbook.cc/
+
+
+
+
+- taxonomy: 阅读
+  icon: linecons-comment
+  links: 
+    - title: 鸠摩搜索
+      url: https://www.jiumodiary.com/
+      description: 文档搜索引擎
+    - title: PanSou 盘搜
+      description: 网盘资源，盘搜一下
+      url: http://www.pansou.com/
+
+    - title: IT eBooks
+      description: Download Read Use
+      url: http://it-ebooks.info/
+    - title: IT熊猫
+      url: https://itpanda.net/book/
+      description: 计算机书籍下载
+    - title: SaltTiger
+      description: 每天一本编程书，每天进步一点点
+      url: https://salttiger.com/
+
+    - title: PDFGet
+      description: 一些英文电子书
+      url: https://pdfget.com/
+
+    - title: 书伴
+      description: 为静心阅读而生
+      url: https://bookfere.com/
+    - title: Clippings.io
+      description: 导出 Kindle 笔记
+      url: https://my.clippings.io/#
+    
+
+
+
+- taxonomy: 影视
+  icon: linecons-videocam
+  links: 
+    - title: 哔哩哔哩入站必刷
+      url: https://www.bilibili.com/h5/good-history
+      description: 
+    - title: IMDb Top250 Movies
+      url: https://www.imdb.com/chart/top/
+      description: 
+    - title: 豆瓣电影 Top 250
+      url: https://movie.douban.com/top250
+      description: 
+
+    - title: 磁力熊
+      url: https://www.cilixiong.com/
+      description: 豆瓣高分电影1080P高清磁力下载
+    - title: 人人影视资源
+      description: 磁力资源等
+      url: https://yyets.dmesg.app/search
+    - title: 磁力岛
+      description: 查找磁力资源
+      url: https://bt000.xyz/
+    - title: Webtor
+      description: 在线播放磁力
+      url: https://webtor.io/
+
+
+
+
+- taxonomy: 音乐
+  icon: linecons-music
+  links: 
+    - title: MP3 PAW
+      description: 在线听/下载 MP3 资源
+      url: https://mp3paw.com/
+    - title: A.I. Duet
+      description: 让 AI 伴奏的钢琴
+      url: https://experiments.withgoogle.com/ai/ai-duet/view/
+    - title: The Infinite Drum Machine
+      description: 用日常的声音创造鼓点
+      url: https://experiments.withgoogle.com/ai/drum-machine/view/
+
+
+
+
+- taxonomy: 投资理财
   icon: linecons-diamond
   list:
     - term: 行业发展
       links:      
         - title: 产业信息网
-          # logo: assets/images/logos/zcool.png
           url: https://www.chyxx.com/
           description: 产业前景投资趋势门户-智研咨询旗下产业信息咨询平台
         - title: QuestMobile
-          # logo: assets/images/logos/pinterest.png
           url: https://www.questmobile.com.cn/
           description: 中国专业的移动互联网商业智能服务平台
         - title: Global consulting
-          # logo: assets/images/logos/huaban.png
           url: https://www.rolandberger.com/en/
           description: Roland Berger
         - title: 科技-腾讯网
-          # logo: assets/images/logos/uicn.png
           url: https://new.qq.com/ch/tech/
           description: 
 
     - term: 基金网站
       links:      
         - title: 理杏仁
-          # logo: assets/images/logos/huaban.png
           url: https://www.lixinger.com/profile/center/home/all
           description: 
         - title: 蛋卷指数估值
-          # logo: assets/images/logos/uicn.png
           url: https://danjuanapp.com/djmodule/value-center?channel=1300100141
           description: 
         - title: 集思录
-          # logo: assets/images/logos/zcool.png
           url: https://www.jisilu.cn/
           description: 
         - title: ETF之家
-          # logo: assets/images/logos/pinterest.png
           url: http://www.etf.group/
           description: 指数基金投资者关心的话题都在这里
         - title: 中国理财网
-          # logo: assets/images/logos/huaban.png
           url: https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp
           description: 理财产品
 
     - term: 财报
       links:
         - title: 看财报
-          # logo: assets/images/logos/uicn.png
           url: https://www.kancaibao.com/
           description: 价值投资分析工具
         - title: 巨潮资讯网
-          # logo: assets/images/logos/zcool.png
           url: http://www.cninfo.com.cn/new/index
           description: 
-        - title: 聚宽社区
-          # logo: assets/images/logos/pinterest.png
-          url: https://www.joinquant.com/view/community/list?listType=1
-          description: 兴趣相投，关注看看
-        - title: 新浪财经
-          # logo: assets/images/logos/huaban.png
-          url: http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/performance/index.phtml
-          description: 业绩预告
-        - title: 深圳证券交易所
-          # logo: assets/images/logos/zcool.png
-          url: hhttp://www.szse.cn/disclosure/supervision/change/?TABKEY-select=tab2
-          description: 董监高及相关人员股份变动
         - title: 东方财富网
           # logo: assets/images/logos/pinterest.png
           url: https://www.eastmoney.com/
-          description: 职业'专题可以看看
+          description: 财经门户网站
+        - title: 聚宽社区
+          # logo: assets/images/logos/pinterest.png
+          url: https://www.joinquant.com/view/community/list?listType=1
+          description: 
+        - title: 新浪财经
+          # logo: assets/images/logos/huaban.png
+          url: http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/performance/index.phtml
+          description: 公司业绩预告
+        - title: 深圳证券交易所
+          # logo: assets/images/logos/zcool.png
+          url: http://www.szse.cn/disclosure/supervision/change/?TABKEY-select=tab2
+          description: 董监高及相关人员股份变动
+        
     
     - term: 国家机构
       links:
@@ -98,271 +546,198 @@
           url: https://www.cicpa.org.cn/
           description: 
 
-    - term: 利率/复利计算
+    - term: 利率 / 复利计算
       links:
         - title: 存款利率一览表
-          # logo: assets/images/logos/uicn.png
           url: https://cn.investing.com/rates-bonds/china-10-year-bond-yield?__cf_chl_jschl_tk__=2FtYRgNcr4olfYfbea5UymmGUj_5zkYMK_ftyvNGG9U-1640560252-0-gaNycGzNCKU/
-          description: 最新债券利率，价格行情，走势图_英为财情
+          description: 最新债券利率
         - title: 在线复利计算器
-          # logo: assets/images/logos/zcool.png
           url: https://tool.520101.com/calculator/fuli
           description: 
 
+
  
+
 - taxonomy: 图片资源
   icon: linecons-camera
   list: 
-    - term: 搜图
+    - term: 图片处理
+      links:
+        - title: tinypng
+          url: https://tinypng.com/
+          description: 2,100,000+ free and premium vector icons.
+        - title: AI 人工智能图片放大
+          description: 让图片更清晰
+          url: http://bigjpg.com/
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: assets/images/logos/gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: Color Palettes
+          url: https://colorhunt.co/
+          description: 色彩搭配
+        - title: 比特虫
+          url: https://www.bitbug.net/
+          description: 制作ico图标   
+
+
+    - term: 搜图 / 壁纸 / 食物
       links:
         - title: 搜图神器
           url: https://www.logosc.cn/so/
-          # logo: assets/images/logos/unsplash.png
           description: 首页一键搜索多家免版权图库
         - title: Pond5
           url: https://www.pond5.com/
-          # logo: assets/images/logos/pixabay.png
           description: 提供免税版的照片、插画、音乐、音效、AE模版和3D模式、视频等，但有小部分收费。
+        
+        - title: 必应壁纸
+          url: https://www.todaybing.com/
+          description: 4K高清无水印下载
+        - title: 天堂图片
+          url: http://www.ivsky.com/
+          description: 每天更新,可做桌面壁纸，不可商用
+
+        - title: Foodies Feed
+          url: http://www.foodiesfeed.com/
+          description: 海量的美食图，让你垂涎欲滴
+        - title: Sozai-Page
+          url: http://www.sozai-page.com/
+          description: 日本的一家免费无版权的烹饪图像
+
+
+    - term: 人物 / 动物 / 植物 / 动漫
+      links:
+        - title: Stockpic - 人物
+          url: https://stokpic.com/
+          description: 分辨率较高，主要是各种人物
+        - title: Freejpg - 动物
+          url: http://en.freejpg.com.ar/
+          description: 集合各种动物图片的网站，可以根据颜色来搜索
+        - title: CC零
+          url: https://www.cc0.cn/
+          description: 国内首家免费可商用的图库。
+        - title: Wallhaven - 动漫
+          url: https://wallhaven.cc/
+          description: 提供同色系的图片推荐
+
+    - term: 摄影爱好 / 旅行
+      links:
+        - title: 色影无忌
+          url: http://ww.xitek.com/
+          description: 摄影爱好者交流平台，以旅游景色为主
+        - title: POCO
+          url: http://www.poco.cn/
+          description: 这是一个社区平台，以原创图片为主
+
+        - title: Travelcoffeebook
+          url: https://travelcoffeebook.com/
+          description: 旅游日记，免注册可商用
+        - title: Moveeast
+          url: http://moveast.me/
+          description: 主题为自然、城市、人文地理
+        - title: Snapwire Snsps
+          url: https://pixabay.com/users/snapwiresnaps-692569/
+          description: 个人图片博客，以自然风景和食物为主
+        
 
     - term: 免费可商用图片
       links:
         - title: Pexels
           url: https://www.pexels.com/
-          # logo: assets/images/logos/unsplash.png
           description: 每日100张新的高品质照片
         - title: Pixabay
           url: https://pixabay.com/
-          # logo: assets/images/logos/pixabay.png
           description: 很多不同类型的摄影照片和剪贴画
         - title: Unslpash
           url: https://unsplash.com/
-          # logo: assets/images/logos/unsplash.png
           description: 超过200,000张免费的高分辨率照片
+        - title: Hippopx
+          url: https://www.hippopx.com/
+          description: 
         - title: StockSnap
           url: http://StockSnap.io
-          # logo: assets/images/logos/pixabay.png
-          description: 图片更新频率很高，每周增加数百个高分辨率图像
+          description: 更新频率很高
         - title: Publicdomain
           url: https://www.pexels.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 超过38万张免费高清图像，设计师可以免费使用在你的创意项目上
+          description: 设计师可以免费使用在你的创意项目上
         - title: Magdeleine
           url: https://magdeleine.co/browse
-          # logo: assets/images/logos/pixabay.png
-          description: 更新也比较慢，但是质量都很高，可以按颜色分类
+          description: 可以按颜色分类
         - title: Designers Pics
           url: http://www.designerspics.com
-          # logo: assets/images/logos/unsplash.png
           description: 界面很清新，可以筛选类别查找
         - title: Cupcake
           url: http://cupcake.nilssonlee.se/
-          # logo: assets/images/logos/pixabay.png
           description: 图片色调厚实，适合做背景图
         - title: StreetWill
           url: http://streetwill.co/
-          # logo: assets/images/logos/unsplash.png
-          description: 干净整洁无任何广告的图片分享网站,更新有点慢
+          description: 干净整洁无广告
         - title: Free Images
           url: http://www.freeimages.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 很多适合平面设计师、网页设计师使用的图像素材
+          description: 适合平面设计师、网页设计师
         - title: Pickupimage
-          url: https%3A//pickupimage.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 主要以自然景观和户外图片为主
+          url: https://pickupimage.com/
+          description: 主要以自然景观、户外图片为主
         - title: New Old Stock
           url: https://nos.twnsnd.co/
-          # logo: assets/images/logos/pixabay.png
           description: 来自公共资料馆经典复古的老照片
         - title: Freemagebank
           url: http://www.freemagebank.com/
-          # logo: assets/images/logos/unsplash.png
           description: 图片的质量超级高,就是下载有些麻烦
 
-    - term: 食物图片
-      links:
-        - title: Foodies Feed
-          url: http://www.foodiesfeed.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 海量的美食图，让你垂涎欲滴
-        - title: Sozai-Page
-          url: http://www.sozai-page.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 很日本的一家免费无版权的烹饪原始图，所有的图片均在3000像素以上，分类详细以查找
-        - title: POCO
-          url: http://www.poco.cn/
-          # logo: assets/images/logos/unsplash.png
-          description: 这是一个社区平台，以原创图片为主
-        - title: 天堂图片
-          url: http://www.ivsky.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 每天都会更新图片，可做素材图片和桌面壁纸，注意不可商用。
-        - title: Publicdomain
-          url: https://www.pexels.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 超过38万张免费高清图像，设计师可以免费使用在你的创意项目上
-        - title: Magdeleine
-          url: https://magdeleine.co/browse
-          # logo: assets/images/logos/pixabay.png
-          description: 更新也比较慢，但是质量都很高，可以按颜色分类
-        - title: Designers Pics
-          url: http://www.designerspics.com
-          # logo: assets/images/logos/unsplash.png
-          description: 界面很清新，可以筛选类别查找
-        - title: Cupcake
-          url: http://cupcake.nilssonlee.se/
-          # logo: assets/images/logos/pixabay.png
-          description: 图片色调厚实，适合做背景图
-        - title: StreetWill
-          url: http://streetwill.co/
-          # logo: assets/images/logos/unsplash.png
-          description: 干净整洁无任何广告的图片分享网站,更新有点慢
-        - title: Free Images
-          url: http://www.freeimages.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 很多适合平面设计师、网页设计师使用的图像素材
-        - title: Pickupimage
-          url: https%3A//pickupimage.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 主要以自然景观和户外图片为主  
-
-    - term: 摄影
+        
+    - term: 摄影图片
       links:
         - title: Skuawk
           url: http://skuawk.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 任何人都可以下载和使用这些图片，主要分类有野生动物、景观、城市，人物、技术、静物等。
-        - title: Trunklog
-          url: http://trunklog.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 瑞典摄影师旅行所拍摄的照片，全部无偿使用，可用用于商业用途
+          description: 野生动物、景观、城市，人物、技术、静物等
         - title: Gratisography
           url: http://www.gratisography.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 高清风格化摄影图库。
+          description: 高清风格化摄影图库
+        - title: Trunklog
+          url: http://trunklog.com/
+          description: 瑞典摄影师旅行所拍摄的，可用于商业用途
         - title: Stockvault
           url: http://www.stockvault.net/
-          # logo: assets/images/logos/pixabay.png
-          description: 免费的照片社区，网站提供数以千计的人物，动物，建筑物和街头摄影
-        - title: 泼辣有图
-          url: http://www.polayoutu.com/collections
-          # logo: assets/images/logos/unsplash.png
-          description: 所有作品皆可免费使用，每张照片附属拍摄型号、地点和背后故事，生活处处有惊喜
+          description: 提供数以千计的人物，动物，建筑物和街头摄影
         - title: 图虫网
           url: https://tuchong.com/
-          # logo: assets/images/logos/pixabay.png
-          description: 站内所有图片都来自摄影师作品，主要用于商业，但是下载原图需要购买注册。
-        - title: 色影无忌
-          url: http://ww.xitek.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 主要是一些摄影爱好者交流的平台，因此里面的图片主要以旅游景色为主。
+          description: 摄影师作品，主要用于商业，下载原图需要购买注册
 
-    - term: 旅行
-      links:
-        - title: Travelcoffeebook
-          url: https://travelcoffeebook.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 旅游日记，专门提供免费高清旅游大图的网站，免注册可商用，以旅途拍摄的照片为主。
-        - title: Moveeast
-          url: http://moveast.me/
-          # logo: assets/images/logos/pixabay.png
-          description: 热门旅行和摄影图片，可以全部免费使用，主题为自然、城市、人文地理 。
-        - title: Snapwire Snsps
-          url: https://pixabay.com/users/snapwiresnaps-692569/
-          # logo: assets/images/logos/unsplash.png
-          description: 个人图片博客，以自然风景和食物为主 。
-        
-    - term: 人物 / 动物 / 植物
-      links:
-        - title: Stockpic - 人物
-          url: https://stokpic.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 分辨率较高，主要是各种人物 。
-        - title: Freejpg - 动物
-          url: http://en.freejpg.com.ar/
-          # logo: assets/images/logos/pixabay.png
-          description: 集合各种动物图片的网站，可以根据颜色来搜索。
-        - title: CC零
-          url: https://www.cc0.cn/
-          # logo: assets/images/logos/unsplash.png
-          description: 国内首家免费可商用的图库。
-
-    - term: 动漫 / 饰品
-      links:
-        - title: Wallhaven - 动漫
-          url: https://wallhaven.cc/
-          # logo: assets/images/logos/unsplash.png
-          description: 质量高，无广告，种类多，支持各种筛选，每张图片都有自己的一些Tag，还提供同色系的图片推荐。
-        - title: 珠宝匠
-          url: http://www.zhubaoj.cn/
-          # logo: assets/images/logos/pixabay.png
-          description: 可以按石头形状颜色大小，首饰类别风格元素等精确搜索的珠宝图库。
-        - title: 51首饰
-          url: http://www.51shoushi.com/
-          # logo: assets/images/logos/unsplash.png
-          description: 大型珠宝图片网站，图片数量非常多，但需要注册会员才能看大图，会员很贵。
 
     - term: 图标素材
       links:
-        - title: Iconfinder
-          # logo: assets/images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
         - title: Stockio
-          # logo: assets/images/logos/iconfont.png
           url: https://www.stockio.com/
-          description:  Stockio
+          description: Free Photos, Vectors, Icons, Fonts
         - title: iconfont
-          # logo: assets/images/logos/iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
+        - title: Iconfinder
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons
         - title: Fontello
-          # logo: assets/images/logos/fontawesomeicon.png
           url: https://fontello.com/
           description: icon fonts generator
         - title: Font Awesome Icon
-          # logo: assets/images/logos/fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome
         - title: Linecons Font
-          # logo: assets/images/logos/fontawesomeicon.png
           url: https://fontello.github.io/linecons.font/demo.html
-          description: 
-          
+          description: Linecons font demo
 
-    - term: 图片处理
-      links:
-        - title: tinypng
-          # logo: assets/images/logos/Iconfinder.png
-          url: https://tinypng.com/
-          description: 2,100,000+ free and premium vector icons.
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: assets/images/logos/gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-        - title: Color Palettes-色彩搭配
-          # logo: assets/images/logos/iconfont.png
-          url: https://colorhunt.co/
-          description:  Stockio
-        - title: 比特虫-制作ico图标
-          # logo: assets/images/logos/iconfont.png
-          url: https://www.bitbug.net/
-          description:     
 
     - term: 背景素材
       links:
-        - title: uiGradients-渐变色背景
-          # logo: assets/images/logos/Iconfinder.png
+        - title: uiGradients
           url: https://uigradients.com/#Venice
-          description: 2,100,000+ free and premium vector icons.
-        - title: Bg-patterns-底纹背景
-          # logo: assets/images/logos/iconfont.png
+          description: 渐变色背景
+        - title: Bg-patterns
           url: http://bg-patterns.com/?p=2431
-          description:  Stockio
-        - title: 背景图片免费下载
-          # logo: assets/images/logos/iconfont.png
+          description: 底纹背景
+        - title: 熊猫办公
           url: https://www.tukuppt.com/backdrop/zonghe_0_0_0_0_0_0_3.html
-          description: 阿里巴巴矢量图标库    
+          description: 背景图片免费下载
 
     - term: LOGO设计
       links:
@@ -373,7 +748,7 @@
         - title: iOS Icon Gallery
           logo: assets/images/logos/iosicongallery.png
           url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
+          description: Showcasing beautiful icon designs
         - title: World Vector Logo
           logo: assets/images/logos/worldvectorlogo.png
           url: https://worldvectorlogo.com/
@@ -383,113 +758,3 @@
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
 
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: assets/images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: assets/images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: assets/images/logos/pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: assets/images/logos/pptmind.png
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: assets/images/logos/tretars.png
-          description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: assets/images/logos/500d.png
-          description: 中国领先的PPT模板共享平台
-
-- taxonomy: 软件下载
-  icon: linecons-desktop
-  links: 
-    - title: PiratePC
-      # logo: assets/images/logos/dribbble.png
-      url: https://piratepc.me/
-      description: 网站运营者是一群热爱互联网和技术的人
-    - title: 懒得勤快的博客
-      url: https://masuit.com/
-      # logo: assets/images/logos/usepanda.png
-      description: 互联网分享精神
-    - title: Get Into PC
-      # logo: assets/images/logos/dribbble.png
-      url: https://igetintopc.com/
-      description: 软件版本更新极快，属于绿色软件的门户网站
-    - title: PirateCity
-      logo: assets/images/logos/leiphone.png
-      url: https://www.thepiratecity.co/posts/
-      description: 海盗湾
-    - title: 脑袋瓜子
-      # logo: assets/images/logos/behance.png
-      url: https://www.naodai.org/
-      description: 一个超棒的自定
-    - title: IDM俄国大佬
-      # logo: assets/images/logos/dribbble.png
-      url: https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
-      description: 岁的法国
-    - title: 反斗限免
-      # logo: assets/images/logos/behance.png
-      url: http://free.apprcn.com/
-      description: 一个超棒的自定义信息聚合 (rss feed) 平台
-    - title: Intellij idea 激活码
-      # logo: assets/images/logos/behance.png
-      url: https://idea.medeming.com/jets/
-      description: 一个超棒的自定
-
-- taxonomy: 打字练习
-  icon: linecons-pencil
-  links: 
-    - title: 方法论
-      # logo: assets/images/logos/dribbble.png
-      url: https://www.typingtest.com/
-      description: 测试打字速度
-    - title: TypingTest
-      # logo: assets/images/logos/behance.png
-      url: https://idea.medeming.com/jets/
-      description: 一个超棒的自定
-    - title: 10FastFingers
-      logo: assets/images/logos/leiphone.png
-      url: https://10fastfingers.com/typing-test/english
-      description: 常见单词练习
-    - title: 字母键练习
-      # logo: assets/images/logos/behance.png
-      url: https://dazi.91xjr.com/typing/train/letter.html
-      description: 字母键练习
-    - title: TypingClub
-      # logo: assets/images/logos/dribbble.png
-      url: https://www.edclub.com/sportal/
-      description: 闯关
-    - title: Keybr
-      # logo: assets/images/logos/behance.png
-      url: https://www.keybr.com/
-      description: 记录每个按键的打字速度，生成适合你的打字练习内容
-
-- taxonomy: 生活类
-  icon: linecons-shop
-  links: 
-    - title: IMDb Top 250 Movies
-      # logo: assets/images/logos/dribbble.png
-      url: https://www.imdb.com/chart/top/
-      description: 测试打字速度
-    - title: 医学微视
-      # logo: assets/images/logos/behance.png
-      url: https://www.mvyxws.com/
-      description: 一个超棒的自定
-
-- taxonomy: 临时邮箱/短信
-  icon: linecons-mail
-  links: 
-    - title: 临时邮箱
-      # logo: assets/images/logos/dribbble.png
-      url: https://temp-mail.org/zh/
-      description: 测试打字速度
