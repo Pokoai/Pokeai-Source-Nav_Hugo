@@ -155,7 +155,17 @@
 
         - title: I Love PDF
           description: PDF 爱好者的在线工具
+
           url: http://www.ilovepdf.com/zh_cn
+        - title: 在线Ps
+          url: https://ps.gaoding.com/#/
+          description: 
+        - title: ProcessOn
+          url: https://www.processon.com/
+          description: 免费在线作图
+        - title: 7up
+          url: https://www.rafaelvarona.com/7up
+          description: 
 
         - title: 幕布
           description: 梳理文章结构大纲
@@ -191,6 +201,9 @@
         - title: ALLDOCS
           description: 在线任意格式转换
           url: https://alldocs.app/
+        - title: ALLDOCS
+          description: 在线格式转换
+          url: https://cn.office-converter.com/
 
         - title: Markdown 简历
           description: 在线简历编辑，推荐阅读项目的 README
@@ -227,7 +240,9 @@
         - title: FC 游戏在线玩
           description: 在线玩各种经典游戏
           url: http://lab.mkblog.cn/FCGames/#/
-
+        - title: RECEIVE SMS ONLINE
+          description: 美国假身份生成
+          url: https://www.fakenamegenerator.com/gen-male-us-us.php
         - title: RECEIVE SMS ONLINE
           description: 接码平台
           url: https://www.receivesmsonline.net/
@@ -509,6 +524,9 @@
     - title: PanSou 盘搜
       description: 网盘资源，盘搜一下
       url: http://www.pansou.com/
+    - title: 走读派
+      description: 
+      url: http://www.zoudupai.com/
 
     - title: IT eBooks
       description: Download Read Use
@@ -516,6 +534,12 @@
     - title: IT熊猫
       url: https://itpanda.net/book/
       description: 计算机书籍下载
+    - title: 文档分享
+      description: Download Read Use
+      url: https://www.wdfxw.net/
+    - title: 极客图书
+      url: https://jikbook.com/
+      description: 
     - title: SaltTiger
       description: 每天一本编程书，每天进步一点点
       url: https://salttiger.com/
@@ -530,6 +554,29 @@
     - title: Clippings.io
       description: 导出 Kindle 笔记
       url: https://my.clippings.io/#
+
+    - title: magazinelib
+      description: 杂志下载
+      url: https://magazinelib.com/
+    - title: freemagazinepdf
+      url: https://freemagazinepdf.com/
+      description: 
+    - title: worldofmagazine
+      description: 
+      url: https://www.worldofmagazine.com/
+    - title: 田间小站
+      description: 
+      url: https://www.tjxz.cc/tag/magazine
+
+    - title: 时代周刊
+      description: 
+      url: https://time.com/
+    - title: 读者文摘
+      description: 
+      url: https://www.rd.com/
+    - title: 经济学人
+      description: 
+      url: https://www.economist.com/
     
 
 
