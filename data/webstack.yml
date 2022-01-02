@@ -112,7 +112,34 @@
           description: 油猴脚本分享交流的论坛
 
 
+    - term: 英文社区
+      links: 
+        - title: 麻省理工科技评论
+          url: https://www.mittrchina.com/news
+          description: 发现改变世界的新兴科技
+        - title: Insider
+          url: https://www.insider.com/asia
+          description: 
+        - title: Medium
+          url: https://medium.com/
+          description: Where good ideas find you.
+        - title: Reddit
+          url: https://www.reddit.com/
+          description: Dive into anything
+        - title: Quora
+          url: https://www.quora.com/?__pmsg__=+TVBtdXJsQkFfTzgxa2dGZU9nbXQ6YS5hcHAudmlldy5wbXNnLkFkZGl0aW9uYWxFbWFpbENvbmZpcm1hdGlvbkVycm9yOltbXSwge31d
+          description: 外国知乎
+        - title: The New York Times
+          url: https://www.nytimes.com/
+          description: Breaking News, US News, World News and Videos
+        - title: Top Medium Stories
+          url: https://topmediumstories.com/
+          description: 
+        - title: Towards Data Science
+          url: https://medium.com/towards-data-science
+          description: 
     
+
 
 - taxonomy: 工具箱
   icon: linecons-cog
@@ -130,6 +157,9 @@
           description: PDF 爱好者的在线工具
           url: http://www.ilovepdf.com/zh_cn
 
+        - title: 幕布
+          description: 梳理文章结构大纲
+          url: https://mubu.com/app
         - title: markmap
           description: 在线使用 markdown 绘制思维导图
           url: https://markmap.js.org/repl
@@ -274,6 +304,11 @@
         - title: Intellij idea 激活码
           url: https://idea.medeming.com/jets/
           description: 
+
+        - title: Chrome 插件
+          url: https://github.com/zhaoolee/ChromeAppHeroes
+          description: 112个优秀的Chrome插件中文说明书
+        
 
 
     - term: 打字练习
