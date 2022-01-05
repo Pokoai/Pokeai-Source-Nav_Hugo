@@ -155,7 +155,6 @@
 
         - title: I Love PDF
           description: PDF 爱好者的在线工具
-
           url: http://www.ilovepdf.com/zh_cn
         - title: 在线Ps
           url: https://ps.gaoding.com/#/
@@ -163,6 +162,9 @@
         - title: ProcessOn
           url: https://www.processon.com/
           description: 免费在线作图
+        - title: Aspose
+          url: https://products.aspose.app/imaging/zh-hans/image-view/jpg
+          description: 在线查看手机长截图
         - title: 7up
           url: https://www.rafaelvarona.com/7up
           description: 
