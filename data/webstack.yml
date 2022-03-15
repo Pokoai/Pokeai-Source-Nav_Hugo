@@ -43,6 +43,9 @@
     - title: 等高线演示-Matplotlib
       url: https://www.matplotlib.org.cn/gallery/images_contours_and_fields/contour_demo.html
       description: 
+    - title: Pillow
+      url: https://pillow.readthedocs.io/en/stable/reference/Image.html#
+      description: 
 
     - title: Java SE 11 & JDK 11
       url: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
@@ -629,15 +632,17 @@
 
 
 
-
 - taxonomy: 投资理财
   icon: linecons-diamond
   list:
-    - term: 行业发展
+    - term: 行业发展-大局观
       links:      
         - title: 产业信息网
           url: https://www.chyxx.com/
           description: 产业前景投资趋势门户-智研咨询旗下产业信息咨询平台
+        - title: 行业品牌查询
+          url: https://www.maigoo.com/
+          description: 行业品牌TOP排名
         - title: QuestMobile
           url: https://www.questmobile.com.cn/
           description: 中国专业的移动互联网商业智能服务平台
@@ -648,23 +653,63 @@
           url: https://new.qq.com/ch/tech/
           description: 
 
-    - term: 基金网站
+
+    - term: 综合查询
+      links:      
+        - title: 同花顺
+          url: https://www.10jqka.com.cn/
+          description: 
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          description: 财经门户网站
+        - title: 雪球
+          url: https://xueqiu.com/
+          description: 热帖、话题、大V分享都是很不错的投资学习机会
+
+        - title: 中国理财网
+          url: https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp
+          description: 全国所有银行理财产品信息都在这里
+
+
+    - term: 量化数据查询
       links:      
         - title: 理杏仁
           url: https://www.lixinger.com/profile/center/home/all
-          description: 
+          description: 数据分析已经接近专业分析领域
+        - title: 萝卜投研
+          url: https://robo.datayes.com/
+          description: 数据 研报
+        - title: 乌龟量化
+          url: https://www.lixinger.com/profile/center/home/all
+          description: 行业板块估值以及基金收益回测都很好用
+
+
+    - term: 基金&指数&债券
+      links:      
+        - title: 天天基金网
+          url: https://fund.eastmoney.com/
+          description: 分析某只基金，按照基金档案来就够了
+        - title: 好买基金网：选基利器
+          url: https://www.howbuy.com/
+          description: 选基和基金对比工具很不错 
+        - title: 基金组合相关性检测
+          url: https://qieman.com/user/signup
+          description: 是否同涨同跌
+
         - title: 蛋卷指数估值
           url: https://danjuanapp.com/djmodule/value-center?channel=1300100141
           description: 
+        - title: 且慢估值
+          url: https://qieman.com/idx-eval
+          description: 
+
         - title: 集思录
           url: https://www.jisilu.cn/
-          description: 
+          description: 可转债、打新
         - title: ETF之家
           url: http://www.etf.group/
           description: 指数基金投资者关心的话题都在这里
-        - title: 中国理财网
-          url: https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp
-          description: 理财产品
+    
 
     - term: 财报
       links:
@@ -674,10 +719,7 @@
         - title: 巨潮资讯网
           url: http://www.cninfo.com.cn/new/index
           description: 
-        - title: 东方财富网
-          # logo: assets/images/logos/pinterest.png
-          url: https://www.eastmoney.com/
-          description: 财经门户网站
+        
         - title: 聚宽社区
           # logo: assets/images/logos/pinterest.png
           url: https://www.joinquant.com/view/community/list?listType=1
@@ -692,28 +734,30 @@
           description: 董监高及相关人员股份变动
         
     
-    - term: 国家机构
+    - term: 官方机构
       links:
+        - title: 中国证券登记结算有限责任公司
+          url: http://www.chinaclear.cn/zdjs/tjyb1/center_tjbg.shtml
+          description: 新增开户数-市场宏观情绪
         - title: 上海证券交易所
-          # logo: assets/images/logos/uicn.png
           url: http://www.sse.com.cn/
           description: 
         - title: 深圳证券交易所
-          # logo: assets/images/logos/zcool.png
           url: http://www.szse.cn/
           description: 
         - title: 中国财政部
-          # logo: assets/images/logos/pinterest.png
           url: http://www.mof.gov.cn/index.htm
-          description:
+          description: 最新、最全，紧跟国家浪潮
         - title: 国家统计局
-          # logo: assets/images/logos/huaban.png
           url: http://www.stats.gov.cn/
-          description: 
-        - title: 中国证券登记结算有限责任公司
-          # logo: assets/images/logos/pinterest.png
-          url: http://www.chinaclear.cn/zdjs/tjyb1/center_tjbg.shtml
-          description:
+          description: GDP 房价
+        - title: 证监会
+          url: http://www.csrc.gov.cn/pub/newsite/
+          description: 宏观数据 期货周报
+        - title: 中国人民银行
+          url: http://www.pbc.gov.cn/rmyh/105145/index.html
+          description: 国家利率、存款准备金、人民币汇率、M2、社融
+        
         - title: 中国注册会计师协会
           # logo: assets/images/logos/huaban.png
           url: https://www.cicpa.org.cn/
@@ -721,11 +765,17 @@
 
     - term: 利率 / 复利计算
       links:
-        - title: 存款利率一览表
+        - title: 十年国债利率
           url: https://cn.investing.com/rates-bonds/china-10-year-bond-yield?__cf_chl_jschl_tk__=2FtYRgNcr4olfYfbea5UymmGUj_5zkYMK_ftyvNGG9U-1640560252-0-gaNycGzNCKU/
-          description: 最新债券利率
-        - title: 在线复利计算器
+          description:
+        - title: 银行存款利率
+          url: https://bank.cngold.org/yhckll/
+          description: 
+        - title: 复利计算器
           url: https://tool.520101.com/calculator/fuli
+          description: 
+        - title: 定投计算器
+          url: http://data.eastmoney.com/money/calc/CalcFundSY.html
           description: 
 
 
