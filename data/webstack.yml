@@ -8,10 +8,19 @@
     - title: CS 自学指南在线书籍
       url: https://csdiy.wiki/
       description: 
+
+    - title: 机器学习初学者
+      url: https://github.com/fengdu78/machine_learning_beginner
+      description: 学完这些文章学完以后，就基本入门了。
   
+    - title: 阿里云藏经阁
+      url: https://developer.aliyun.com/ebook/?spm=a2c6h.12873639.0.0.51414303mDg90T
+      description: 汇聚阿里巴巴技术实践精华，涵盖云原生、物联网、大数据、AI等技术领域。
+
     - title: 自我成长
       url: https://www.edx.org/learn/business-administration
       description: 
+
     - title: R数据分析指南与速查手册
       url: https://bookdown.org/xiao/RAnalysisBook/
       description: 
@@ -21,10 +30,13 @@
 
 
 
-
 - taxonomy: 官方文档
   icon: linecons-doc
   links: 
+    - title: Google 开源项目风格指南
+      url: https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/
+      description: 代码规范手册
+
     - title: Python 3.10.1 documentation
       url: https://docs.python.org/3.10/search.html
       description: 
@@ -320,9 +332,6 @@
           url: http://free.apprcn.com/
           description: 发布软件限免信息
 
-        - title: IDM
-          url: https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
-          description: 俄国大佬破解版
         - title: Intellij idea 激活码
           url: https://idea.medeming.com/jets/
           description: 
@@ -338,10 +347,12 @@
         - title: 方法论
           url: 
           description: 
-
-        - title: TypingTest
-          url: https://www.typingtest.com/
-          description: 测试打字速度
+        - title: Typing.com
+          url: https://www.typing.com/
+          description: 有意思的打字闯关
+        - title: Keybr
+          url: https://www.keybr.com/
+          description: 记录每个按键的打字速度，生成适合你的练习内容
 
         - title: 10 FastFingers
           logo: assets/images/logos/leiphone.png
@@ -353,9 +364,10 @@
         - title: TypingClub
           url: https://www.edclub.com/sportal/
           description: 打字闯关
-        - title: Keybr
-          url: https://www.keybr.com/
-          description: 记录每个按键的打字速度，生成适合你的练习内容
+
+        - title: TypingTest
+          url: https://www.typingtest.com/
+          description: 测试打字速度
 
 
 
@@ -680,7 +692,7 @@
           url: https://robo.datayes.com/
           description: 数据 研报
         - title: 乌龟量化
-          url: https://www.lixinger.com/profile/center/home/all
+          url: https://wglh.com/
           description: 行业板块估值以及基金收益回测都很好用
 
 
