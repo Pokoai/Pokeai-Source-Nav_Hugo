@@ -12,11 +12,15 @@
     - title: 机器学习初学者
       url: https://github.com/fengdu78/machine_learning_beginner
       description: 学完这些文章学完以后，就基本入门了。
-  
-    - title: 阿里云藏经阁
-      url: https://developer.aliyun.com/ebook/?spm=a2c6h.12873639.0.0.51414303mDg90T
-      description: 汇聚阿里巴巴技术实践精华，涵盖云原生、物联网、大数据、AI等技术领域。
-
+    
+    - title: 现代魔法学院
+      url: www.nowamagic.net/academy/
+      description: 学习是为了探索这个世界的本质
+    
+    - title: 极客教程
+      url: https://geek-docs.com
+      description: 打磨精品教程
+       
     - title: 自我成长
       url: https://www.edx.org/learn/business-administration
       description: 
@@ -42,13 +46,22 @@
       description: 
     - title: NumPy v1.19 Manual
       url: https://numpy.org/doc/stable/search.html?q=argsort&check_keywords=yes&area=default
+      description:
+    - title: NumPy 中文网
+      url: https://www.numpy.org.cn/
       description: 
     - title: SciPy v1.5.4
       url: https://docs.scipy.org/doc/scipy/reference/
+      description:
+    - title: Pandas 中文网
+      url: https://www.pypandas.cn/
       description: 
     - title: Matplotlib 3.5.1
       url: https://matplotlib.org/stable/
       description: 
+     title: Matplotlib 中文网
+      url: https://www.matplotlib.org.cn/
+      description:
     - title: Examples — Matplotlib3.5.1
       url: https://matplotlib.org/stable/gallery/index.html
       description: 
