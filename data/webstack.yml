@@ -304,218 +304,6 @@
 
 
 
-- taxonomy: 资源
-  icon: linecons-cog
-  list:
-    - term: 在线工具
-      links: 
-        - title: 奶牛快传
-          url: https://cowtransfer.com/
-          description: 文档传输
-        - title: 文叔叔
-          url: https://www.wenshushu.cn/
-          description: 文档传输
-
-        - title: I Love PDF
-          description: PDF 爱好者的在线工具
-          url: http://www.ilovepdf.com/zh_cn
-        - title: 在线Ps
-          url: https://ps.gaoding.com/#/
-          description: 
-        - title: ProcessOn
-          url: https://www.processon.com/
-          description: 免费在线作图
-        - title: Aspose
-          url: https://products.aspose.app/imaging/zh-hans/image-view/jpg
-          description: 在线查看手机长截图
-        - title: 7up
-          url: https://www.rafaelvarona.com/7up
-          description: 
-
-        - title: 幕布
-          description: 梳理文章结构大纲
-          url: https://mubu.com/app
-        - title: markmap
-          description: 在线使用 markdown 绘制思维导图
-          url: https://markmap.js.org/repl
-
-        - title: Google Trends
-          description: 了解关键词的流行趋势
-          url: https://trends.google.com.sg/trends/?geo=CN
-        - title: Experiments with Google
-          description: 谷歌 AI 项目
-          url: https://experiments.withgoogle.com/
-        - title: Have I been pwned?
-          description: 检查密码是否已经泄露
-          url: https://haveibeenpwned.com/
-        - title: 与佛论禅
-          description: 在线文字加解密工具
-          url: http://keyfc.net/bbs/tools/tudoucode.aspx
-        
-
-        - title: LaTeX 公式编辑器
-          description: 在线编辑 LaTeX
-          url: https://www.latexlive.com/##
-        - title: Math Webdemo
-          description: 手写数学公式识别
-          url: https://webdemo.myscript.com/views/math/index.html
-        - title: GeoGebra
-          description: 在线数学软件（运算、绘图等）
-          url: https://www.geogebra.org/
-        
-        - title: ALLDOCS
-          description: 在线任意格式转换
-          url: https://alldocs.app/
-        - title: ALLDOCS
-          description: 在线格式转换
-          url: https://cn.office-converter.com/
-
-        - title: Markdown 简历
-          description: 在线简历编辑，推荐阅读项目的 README
-          url: https://resume.mdnice.com/
-        - title: 超级简历
-          description: 在线生成简历
-          url: https://www.wondercv.com/
-        - title: 冷熊简历
-          description: 在线生成 Markdown 简历
-          url: http://cv.ftqq.com/?fr=github#
-        - title: Resumd
-          description: 在线生成 Markdown 简历
-          url: https://resumd.t9t.io/
-
-        - title: asciiflow
-          description: 使用字符来绘画，代码注释用
-          url: http://asciiflow.com/
-        - title: File Destructor 2.0
-          description: 伪装文件损坏
-          url: http://www.xnet.se/fd/
-        - title: Gridzzly
-          description: 在线生成格点纸
-          url: http://gridzzly.com/
-        - title: GTmetrix
-          description: 网站加载速度测试
-          url: https://gtmetrix.com/
-        - title: NSEC lab
-          description: 定位 IP，分析是否为机器人
-          url: https://ip.rtbasia.com/
-        
-        - title: Generate awesome Javascript project names
-          description: 随机取名器
-          url: http://mrsharpoblunto.github.io/foswig.js/
-        - title: FC 游戏在线玩
-          description: 在线玩各种经典游戏
-          url: http://lab.mkblog.cn/FCGames/#/
-        - title: RECEIVE SMS ONLINE
-          description: 美国假身份生成
-          url: https://www.fakenamegenerator.com/gen-male-us-us.php
-        - title: RECEIVE SMS ONLINE
-          description: 接码平台
-          url: https://www.receivesmsonline.net/
-        - title: 在线接收短信
-          description: 接码平台
-          url: https://ch.freephonenum.com/
-        - title: My Trash Mobile
-          description: 接码平台
-          url: https://zh.mytrashmobile.com/
-        - title: 超级云短信
-          description: 接码平台
-          url: https://www.bfkdim.com/?lang=cn
-        - title: 在线短信接收 - 接码号
-          description: 接码平台
-          url: https://jiemahao.com/
-        - title: 在线短信接收 
-          description: 接码平台
-          url: https://www.materialtools.com/?page=1
-        - title: 临时邮箱
-          url: https://temp-mail.org/zh/
-          description: 
-
-        - title: 医学微视
-          url: https://www.mvyxws.com/
-          description: 
-
-
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: assets/images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: assets/images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: assets/images/logos/tretars.png
-          description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: assets/images/logos/500d.png
-          description: 中国领先的PPT模板共享平台
-
-
-    - term: 软件资源
-      links: 
-        - title: PiratePC
-          url: https://piratepc.me/
-          description: 网站运营者是一群热爱互联网和技术的人
-        - title: 懒得勤快的博客
-          url: https://masuit.com/
-          description: 互联网分享精神
-        - title: Get Into PC
-          url: https://igetintopc.com/
-          description: 软件版本更新极快，属于绿色软件的门户网站
-        - title: PirateCity
-          logo: assets/images/logos/leiphone.png
-          url: https://www.thepiratecity.co/posts/
-          description: 海盗湾
-        - title: 脑袋瓜子
-          url: https://www.naodai.org/
-          description: 瓜子云盘分享很多资源
-
-        - title: 反斗限免
-          url: http://free.apprcn.com/
-          description: 发布软件限免信息
-
-        - title: Intellij idea 激活码
-          url: https://idea.medeming.com/jets/
-          description: 
-
-        - title: Chrome 插件
-          url: https://github.com/zhaoolee/ChromeAppHeroes
-          description: 112个优秀的Chrome插件中文说明书
-        
-
-
-    - term: 打字练习
-      links: 
-        - title: 方法论
-          url: 
-          description: 
-        - title: Typing.com
-          url: https://www.typing.com/
-          description: 有意思的打字闯关
-        - title: Keybr
-          url: https://www.keybr.com/
-          description: 记录每个按键的打字速度，生成适合你的练习内容
-
-        - title: 10 FastFingers
-          logo: assets/images/logos/leiphone.png
-          url: https://10fastfingers.com/typing-test/english
-          description: 常见单词练习
-        - title: 91 小键人
-          url: https://dazi.91xjr.com/typing/train/letter.html
-          description: 字母键练习
-        - title: TypingClub
-          url: https://www.edclub.com/sportal/
-          description: 打字闯关
-
-        - title: TypingTest
-          url: https://www.typingtest.com/
-          description: 测试打字速度
-
-
 
 # - taxonomy: 优质博客
 #   icon: linecons-mail
@@ -787,6 +575,94 @@
     - title: The Infinite Drum Machine
       description: 用日常的声音创造鼓点
       url: https://experiments.withgoogle.com/ai/drum-machine/view/
+
+
+
+
+- taxonomy: 资源
+  icon: linecons-cog
+  list:
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: assets/images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: assets/images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: assets/images/logos/tretars.png
+          description: The best free Mockups from the Web
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: assets/images/logos/500d.png
+          description: 中国领先的PPT模板共享平台
+
+
+    - term: 软件资源
+      links: 
+        - title: PiratePC
+          url: https://piratepc.me/
+          description: 网站运营者是一群热爱互联网和技术的人
+        - title: 懒得勤快的博客
+          url: https://masuit.com/
+          description: 互联网分享精神
+        - title: Get Into PC
+          url: https://igetintopc.com/
+          description: 软件版本更新极快，属于绿色软件的门户网站
+        - title: PirateCity
+          logo: assets/images/logos/leiphone.png
+          url: https://www.thepiratecity.co/posts/
+          description: 海盗湾
+        - title: 脑袋瓜子
+          url: https://www.naodai.org/
+          description: 瓜子云盘分享很多资源
+
+        - title: 反斗限免
+          url: http://free.apprcn.com/
+          description: 发布软件限免信息
+
+        - title: Intellij idea 激活码
+          url: https://idea.medeming.com/jets/
+          description: 
+
+        - title: Chrome 插件
+          url: https://github.com/zhaoolee/ChromeAppHeroes
+          description: 112个优秀的Chrome插件中文说明书
+        
+
+
+    - term: 打字练习
+      links: 
+        - title: 方法论
+          url: 
+          description: 
+        - title: Typing.com
+          url: https://www.typing.com/
+          description: 有意思的打字闯关
+        - title: Keybr
+          url: https://www.keybr.com/
+          description: 记录每个按键的打字速度，生成适合你的练习内容
+
+        - title: 10 FastFingers
+          logo: assets/images/logos/leiphone.png
+          url: https://10fastfingers.com/typing-test/english
+          description: 常见单词练习
+        - title: 91 小键人
+          url: https://dazi.91xjr.com/typing/train/letter.html
+          description: 字母键练习
+        - title: TypingClub
+          url: https://www.edclub.com/sportal/
+          description: 打字闯关
+
+        - title: TypingTest
+          url: https://www.typingtest.com/
+          description: 测试打字速度
+
+
 
 
 
