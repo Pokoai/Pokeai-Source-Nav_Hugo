@@ -74,35 +74,35 @@
           description: 
         
           
-      - term: 数据分析
-        links:
-        - title: NumPy v1.19 Manual
-          url: https://numpy.org/doc/stable/search.html?q=argsort&check_keywords=yes&area=default
-          description:
-        - title: NumPy 中文网
-          url: https://www.numpy.org.cn/
-          description: 
-        - title: SciPy v1.5.4
-          url: https://docs.scipy.org/doc/scipy/reference/
-          description:
-        - title: Pandas 中文网
-          url: https://www.pypandas.cn/
-          description: 
-        - title: Matplotlib 3.5.1
-          url: https://matplotlib.org/stable/
-          description: 
-        - title: Matplotlib 中文网
-          url: https://www.matplotlib.org.cn/
-          description:
-        - title: Examples — Matplotlib3.5.1
-          url: https://matplotlib.org/stable/gallery/index.html
-          description: 
-        - title: 等高线演示-Matplotlib
-          url: https://www.matplotlib.org.cn/gallery/images_contours_and_fields/contour_demo.html
-          description: 
-        - title: Pillow
-          url: https://pillow.readthedocs.io/en/stable/reference/Image.html#
-          description: 
+    - term: 数据分析
+      links:
+      - title: NumPy v1.19 Manual
+        url: https://numpy.org/doc/stable/search.html?q=argsort&check_keywords=yes&area=default
+        description:
+      - title: NumPy 中文网
+        url: https://www.numpy.org.cn/
+        description: 
+      - title: SciPy v1.5.4
+        url: https://docs.scipy.org/doc/scipy/reference/
+        description:
+      - title: Pandas 中文网
+        url: https://www.pypandas.cn/
+        description: 
+      - title: Matplotlib 3.5.1
+        url: https://matplotlib.org/stable/
+        description: 
+      - title: Matplotlib 中文网
+        url: https://www.matplotlib.org.cn/
+        description:
+      - title: Examples — Matplotlib3.5.1
+        url: https://matplotlib.org/stable/gallery/index.html
+        description: 
+      - title: 等高线演示-Matplotlib
+        url: https://www.matplotlib.org.cn/gallery/images_contours_and_fields/contour_demo.html
+        description: 
+      - title: Pillow
+        url: https://pillow.readthedocs.io/en/stable/reference/Image.html#
+        description: 
 
 
         
