@@ -57,21 +57,21 @@
           url: https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/
           description: 代码规范手册
 
-      - term: 编程语言
-        links:
-          - title: C++
-            url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
-            description: cppreference
-          - title: Java
-            url: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
-            description: Java SE 11 & JDK 11
-          - title: Python
-            url: https://docs.python.org/3.10/search.html
-            description: Python 3.10.1 
+    - term: 编程语言
+      links:
+        - title: C++
+          url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
+          description: cppreference
+        - title: Java
+          url: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+          description: Java SE 11 & JDK 11
+        - title: Python
+          url: https://docs.python.org/3.10/search.html
+          description: Python 3.10.1 
 
-          - title: Markdown 手册
-            url: http://itmyhome.com/markdown/index.html
-            description: 
+        - title: Markdown 手册
+          url: http://itmyhome.com/markdown/index.html
+          description: 
         
           
       - term: 数据分析
