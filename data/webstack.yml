@@ -115,22 +115,24 @@
         - title: 产业信息网
           url: https://www.chyxx.com/
           description: 产业前景投资趋势门户-智研咨询旗下产业信息咨询平台
-        - title: 罗兰⻉格
-          url: https://www.rolandberger.com/en/?country=CN
-          description: ⾏业深⼊分析报告，内容⾮常专业
+        - title: 艾瑞⽹
+          url: https://report.iresearch.cn/
+          description: 消费品、支付行业、物流、游戏行业等等白皮书
+        
         - title: 企鹅智库
           url: https://new.qq.com/ch/tech/
           description: 互联⽹⾏业的新兴数据报告，以及泛娱乐⽩⽪书
         - title: QuestMobile
           url: https://www.questmobile.com.cn/
           description: 互联⽹⾏业报告，包含移动社交、健康美容、医疗服务、数字阅读、教育学习
-        - title: 艾瑞⽹
-          url: https://report.iresearch.cn/
-          description: 消费品、支付行业、物流、游戏行业等等白皮书
         
         - title: 行业品牌查询
           url: https://www.maigoo.com/
           description: 行业品牌TOP排名
+        
+        - title: 罗兰⻉格
+          url: https://www.rolandberger.com/en/?country=CN
+          description: ⾏业深⼊分析报告，内容⾮常专业
         
 
 
