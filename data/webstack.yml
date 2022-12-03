@@ -134,42 +134,6 @@
         
 
 
-    - term: 股票
-      links:    
-        - title: I问财
-          url: http://www.iwencai.com/unifiedwap/home/index
-          description: 通过自然语言筛选出符合自己要求的股票池
-        - title: 可比公司查询
-          url: https://tradingcomps.com/
-          description: 全球可比公司的数据对比，最大的用处是在全球视野下看自己股票的估值分位
-        - title: 天眼查
-          url: https://www.tianyancha.com/
-          description: 查询公司股权关系必备，还可以判别公司是否有关联交易
-
-        - title: 雪球
-          url: https://xueqiu.com/
-          description: 民间股神很多，有的分析研报写得很好
-        - title: 东方财富
-          url: https://www.eastmoney.com/
-          description: 财经门户网站  
-        - title: 同花顺
-          url: https://www.10jqka.com.cn/
-          description: 可以筛选⼀些简单的、主营业务⼤致相似的公司
-        
-
-    - term: 数据查询
-      links:      
-        - title: 理杏仁
-          url: https://www.lixinger.com/profile/center/home/all
-          description: 查看A股上市公司财务信息、指数估值
-        - title: 乌龟量化
-          url: https://wglh.com/
-          description: 行业板块估值以及基金收益回测都很好用
-        - title: 银行存款利率
-          url: https://bank.cngold.org/yhckll/
-          description: 
-        
-
     - term: 研报
       links:      
         - title: 慧博投研资讯
@@ -200,7 +164,44 @@
         - title: 董监高及相关人员股份变动
           # logo: assets/images/logos/zcool.png
           url: http://www.szse.cn/disclosure/supervision/change/?TABKEY-select=tab2
+          description:    
+
+
+    - term: 数据查询
+      links:      
+        - title: 理杏仁
+          url: https://www.lixinger.com/profile/center/home/all
+          description: 查看A股上市公司财务信息、指数估值
+        - title: 乌龟量化
+          url: https://wglh.com/
+          description: 行业板块估值以及基金收益回测都很好用
+        - title: 银行存款利率
+          url: https://bank.cngold.org/yhckll/
           description: 
+
+
+
+    - term: 股票
+      links:    
+        - title: I问财
+          url: http://www.iwencai.com/unifiedwap/home/index
+          description: 通过自然语言筛选出符合自己要求的股票池
+        - title: 可比公司查询
+          url: https://tradingcomps.com/
+          description: 全球可比公司的数据对比，最大的用处是在全球视野下看自己股票的估值分位
+        - title: 天眼查
+          url: https://www.tianyancha.com/
+          description: 查询公司股权关系必备，还可以判别公司是否有关联交易
+
+        - title: 雪球
+          url: https://xueqiu.com/
+          description: 民间股神很多，有的分析研报写得很好
+        - title: 东方财富
+          url: https://www.eastmoney.com/
+          description: 财经门户网站  
+        - title: 同花顺
+          url: https://www.10jqka.com.cn/
+          description: 可以筛选⼀些简单的、主营业务⼤致相似的公司
           
 
 
