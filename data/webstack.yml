@@ -105,6 +105,179 @@
         description: 
 
 
+
+
+
+- taxonomy: 在线工具
+  icon: linecons-doc
+  list:
+    - term: 开发
+      links:
+        - title: 正则表达式在线测试
+          url: https://tool.chinaz.com/regex
+          description: 
+        
+        - title: asciiflow
+          description: 使用字符来绘画，代码注释用
+          url: http://asciiflow.com/
+
+        - title: GTmetrix
+          description: 网站加载速度测试
+          url: https://gtmetrix.com/
+       
+        - title: NSEC lab
+          description: 定位 IP，分析是否为机器人
+          url: https://ip.rtbasia.com/
+
+    - term: 办公
+      links:
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          description: 文档传输
+        - title: 文叔叔
+          url: https://www.wenshushu.cn/
+          description: 文档传输
+
+        - title: Convertio
+          description: 多种媒体文件格式转换器
+          url: https://convertio.co/zh/
+        - title: ALLDOCS
+          description: 在线任意格式转换
+          url: https://alldocs.app/
+        - title: ALLDOCS
+          description: 在线格式转换
+          url: https://cn.office-converter.com/
+          
+        - title: I Love PDF
+          description: PDF 爱好者的在线工具
+          url: http://www.ilovepdf.com/zh_cn
+
+        - title: 在线Ps
+          url: https://ps.gaoding.com/#/
+          description: 
+
+        - title: ProcessOn
+          url: https://www.processon.com/
+          description: 免费在线作图
+
+        - title: Aspose
+          url: https://products.aspose.app/imaging/zh-hans/image-view/jpg
+          description: 在线查看手机长截图
+
+        - title: 幕布
+          description: 梳理文章结构大纲
+          url: https://mubu.com/app
+        - title: markmap
+          description: 在线使用 markdown 绘制思维导图
+          url: https://markmap.js.org/repl
+
+        - title: Gridzzly
+          description: 在线生成格点纸
+          url: http://gridzzly.com/
+
+    - term: 数学
+      links:
+        - title: LaTeX 公式编辑器
+          description: 在线编辑 LaTeX
+          url: https://www.latexlive.com/##
+        - title: Math Webdemo
+          description: 手写数学公式识别
+          url: https://webdemo.myscript.com/views/math/index.html
+        - title: GeoGebra
+          description: 在线数学软件（运算、绘图等）
+          url: https://www.geogebra.org/
+    
+    
+    - term: 简历
+      links:
+        - title: Markdown 简历
+          description: 在线简历编辑，推荐阅读项目的 README
+          url: https://resume.mdnice.com/
+        - title: 超级简历
+          description: 在线生成简历
+          url: https://www.wondercv.com/
+        - title: 冷熊简历
+          description: 在线生成 Markdown 简历
+          url: http://cv.ftqq.com/?fr=github#
+        - title: Resumd
+          description: 在线生成 Markdown 简历
+          url: https://resumd.t9t.io/
+
+
+    - term: 打字练习
+      links: 
+        - title: 方法论
+          url: 
+          description: 
+        - title: Typing.com
+          url: https://www.typing.com/
+          description: 有意思的打字闯关
+        - title: Keybr
+          url: https://www.keybr.com/
+          description: 记录每个按键的打字速度，生成适合你的练习内容
+
+        - title: 10 FastFingers
+          logo: assets/images/logos/leiphone.png
+          url: https://10fastfingers.com/typing-test/english
+          description: 常见单词练习
+        - title: 91 小键人
+          url: https://dazi.91xjr.com/typing/train/letter.html
+          description: 字母键练习
+        - title: TypingClub
+          url: https://www.edclub.com/sportal/
+          description: 打字闯关
+
+        - title: TypingTest
+          url: https://www.typingtest.com/
+          description: 测试打字速度
+
+    - term: 其他
+      links:
+        - title: Google Trends
+          description: 了解关键词的流行趋势
+          url: https://trends.google.com.sg/trends/?geo=CN
+
+        - title: FC 游戏在线玩
+          description: 在线玩各种经典游戏
+          url: http://lab.mkblog.cn/FCGames/#/
+
+        - title: 医学微视
+          url: https://www.mvyxws.com/
+          description: 
+
+    - term: 接码平台
+      links:
+        - title: Generate awesome Javascript project names
+          description: 随机取名器
+          url: http://mrsharpoblunto.github.io/foswig.js/
+        - title: RECEIVE SMS ONLINE
+          description: 美国假身份生成
+          url: https://www.fakenamegenerator.com/gen-male-us-us.php
+        - title: RECEIVE SMS ONLINE
+          description: 接码平台
+          url: https://www.receivesmsonline.net/
+        - title: 在线接收短信
+          description: 接码平台
+          url: https://ch.freephonenum.com/
+        - title: My Trash Mobile
+          description: 接码平台
+          url: https://zh.mytrashmobile.com/
+        - title: 超级云短信
+          description: 接码平台
+          url: https://www.bfkdim.com/?lang=cn
+        - title: 在线短信接收 - 接码号
+          description: 接码平台
+          url: https://jiemahao.com/
+        - title: 在线短信接收 
+          description: 接码平台
+          url: https://www.materialtools.com/?page=1
+        - title: 临时邮箱
+          url: https://temp-mail.org/zh/
+          description: 
+
+
+
+
         
 
 - taxonomy: 投资理财
@@ -184,7 +357,20 @@
 
 
     - term: 股票
-      links:    
+      links:   
+        - title: 天涯
+          url: http://www.tianya.cn/message/detail?uid=137102977
+          description:  
+        - title: 雪球
+          url: https://xueqiu.com/
+          description: 民间股神很多，有的分析研报写得很好
+        - title: 东方财富
+          url: https://www.eastmoney.com/
+          description: 财经门户网站  
+        - title: 同花顺
+          url: https://www.10jqka.com.cn/
+          description: 可以筛选⼀些简单的、主营业务⼤致相似的公司
+
         - title: I问财
           url: http://www.iwencai.com/unifiedwap/home/index
           description: 通过自然语言筛选出符合自己要求的股票池
@@ -195,17 +381,8 @@
           url: https://www.tianyancha.com/
           description: 查询公司股权关系必备，还可以判别公司是否有关联交易
 
-        - title: 雪球
-          url: https://xueqiu.com/
-          description: 民间股神很多，有的分析研报写得很好
-        - title: 东方财富
-          url: https://www.eastmoney.com/
-          description: 财经门户网站  
-        - title: 同花顺
-          url: https://www.10jqka.com.cn/
-          description: 可以筛选⼀些简单的、主营业务⼤致相似的公司
+        
           
-
 
     - term: 基金&指数&债券
       links:      
@@ -500,170 +677,6 @@
 
 
 
-
-- taxonomy: 在线工具
-  icon: linecons-doc
-  list:
-    - term: 开发
-      links:
-        - title: 正则表达式在线测试
-          url: https://tool.chinaz.com/regex
-          description: 
-        
-        - title: asciiflow
-          description: 使用字符来绘画，代码注释用
-          url: http://asciiflow.com/
-
-        - title: GTmetrix
-          description: 网站加载速度测试
-          url: https://gtmetrix.com/
-       
-        - title: NSEC lab
-          description: 定位 IP，分析是否为机器人
-          url: https://ip.rtbasia.com/
-
-    - term: 办公
-      links:
-        - title: 奶牛快传
-          url: https://cowtransfer.com/
-          description: 文档传输
-        - title: 文叔叔
-          url: https://www.wenshushu.cn/
-          description: 文档传输
-
-        - title: I Love PDF
-          description: PDF 爱好者的在线工具
-          url: http://www.ilovepdf.com/zh_cn
-
-        - title: 在线Ps
-          url: https://ps.gaoding.com/#/
-          description: 
-
-        - title: ProcessOn
-          url: https://www.processon.com/
-          description: 免费在线作图
-
-        - title: Aspose
-          url: https://products.aspose.app/imaging/zh-hans/image-view/jpg
-          description: 在线查看手机长截图
-
-        - title: 幕布
-          description: 梳理文章结构大纲
-          url: https://mubu.com/app
-        - title: markmap
-          description: 在线使用 markdown 绘制思维导图
-          url: https://markmap.js.org/repl
-
-        - title: ALLDOCS
-          description: 在线任意格式转换
-          url: https://alldocs.app/
-        - title: ALLDOCS
-          description: 在线格式转换
-          url: https://cn.office-converter.com/
-
-        - title: Gridzzly
-          description: 在线生成格点纸
-          url: http://gridzzly.com/
-
-    - term: 数学
-      links:
-        - title: LaTeX 公式编辑器
-          description: 在线编辑 LaTeX
-          url: https://www.latexlive.com/##
-        - title: Math Webdemo
-          description: 手写数学公式识别
-          url: https://webdemo.myscript.com/views/math/index.html
-        - title: GeoGebra
-          description: 在线数学软件（运算、绘图等）
-          url: https://www.geogebra.org/
-    
-    
-    - term: 简历
-      links:
-        - title: Markdown 简历
-          description: 在线简历编辑，推荐阅读项目的 README
-          url: https://resume.mdnice.com/
-        - title: 超级简历
-          description: 在线生成简历
-          url: https://www.wondercv.com/
-        - title: 冷熊简历
-          description: 在线生成 Markdown 简历
-          url: http://cv.ftqq.com/?fr=github#
-        - title: Resumd
-          description: 在线生成 Markdown 简历
-          url: https://resumd.t9t.io/
-
-
-    - term: 打字练习
-      links: 
-        - title: 方法论
-          url: 
-          description: 
-        - title: Typing.com
-          url: https://www.typing.com/
-          description: 有意思的打字闯关
-        - title: Keybr
-          url: https://www.keybr.com/
-          description: 记录每个按键的打字速度，生成适合你的练习内容
-
-        - title: 10 FastFingers
-          logo: assets/images/logos/leiphone.png
-          url: https://10fastfingers.com/typing-test/english
-          description: 常见单词练习
-        - title: 91 小键人
-          url: https://dazi.91xjr.com/typing/train/letter.html
-          description: 字母键练习
-        - title: TypingClub
-          url: https://www.edclub.com/sportal/
-          description: 打字闯关
-
-        - title: TypingTest
-          url: https://www.typingtest.com/
-          description: 测试打字速度
-
-    - term: 其他
-      links:
-        - title: Google Trends
-          description: 了解关键词的流行趋势
-          url: https://trends.google.com.sg/trends/?geo=CN
-
-        - title: FC 游戏在线玩
-          description: 在线玩各种经典游戏
-          url: http://lab.mkblog.cn/FCGames/#/
-
-        - title: 医学微视
-          url: https://www.mvyxws.com/
-          description: 
-
-    - term: 接码平台
-      links:
-        - title: Generate awesome Javascript project names
-          description: 随机取名器
-          url: http://mrsharpoblunto.github.io/foswig.js/
-        - title: RECEIVE SMS ONLINE
-          description: 美国假身份生成
-          url: https://www.fakenamegenerator.com/gen-male-us-us.php
-        - title: RECEIVE SMS ONLINE
-          description: 接码平台
-          url: https://www.receivesmsonline.net/
-        - title: 在线接收短信
-          description: 接码平台
-          url: https://ch.freephonenum.com/
-        - title: My Trash Mobile
-          description: 接码平台
-          url: https://zh.mytrashmobile.com/
-        - title: 超级云短信
-          description: 接码平台
-          url: https://www.bfkdim.com/?lang=cn
-        - title: 在线短信接收 - 接码号
-          description: 接码平台
-          url: https://jiemahao.com/
-        - title: 在线短信接收 
-          description: 接码平台
-          url: https://www.materialtools.com/?page=1
-        - title: 临时邮箱
-          url: https://temp-mail.org/zh/
-          description: 
 
     
 
