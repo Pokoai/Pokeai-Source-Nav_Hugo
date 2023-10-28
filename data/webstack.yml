@@ -190,7 +190,14 @@
       links:
         - title: tinypng
           url: https://tinypng.com/
-          description: 2,100,000+ free and premium vector icons.
+          description: 国外知名的一款在线图片压缩工具
+        - title: Squoosh
+          url: https://squoosh.app/
+          description: 谷歌推出的一款在线图像压缩工具
+        - title: iLoveIMG
+          url: https://www.iloveimg.com/zh-cn/compress-image
+          description: 国外使用量比较高的一款图片压缩工具
+          
         - title: AI 人工智能图片放大
           description: 让图片更清晰
           url: http://bigjpg.com/
