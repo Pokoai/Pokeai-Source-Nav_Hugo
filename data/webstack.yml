@@ -183,7 +183,7 @@
  
  
 
-- taxonomy: 图片资源
+- taxonomy: 图片
   icon: linecons-camera
   list: 
     - term: 图片处理
