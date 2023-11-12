@@ -572,9 +572,18 @@
     - title: Chrome 插件
       url: https://github.com/zhaoolee/ChromeAppHeroes
       description: 112个优秀的Chrome插件中文说明书
+      
+     
+    - title: PDAwiki 词典论坛
+      url: https://www.pdawiki.com/forum/
+      description: 
+
+    - title: FreeMdict 词典论坛
+      url: https://forum.freemdict.com/
+      description: 
 
       
-        
+    
 
 
 - taxonomy: 优质博客（待选）
